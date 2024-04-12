@@ -14,7 +14,7 @@ local_dir = "D:/ControlNet-v1-1"
 
 local_dir_use_symlinks = False # 本地模型使用文件保存，而非blob形式保存
 #
-# token = "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" # 在hugging face上生成的 access token
+# token = "XXXXXXXXXX" # 在hugging face上生成的 access token
 
 # 检查目录是否存在
 if not os.path.exists(cache_dir):
